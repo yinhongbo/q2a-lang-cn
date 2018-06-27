@@ -86,7 +86,7 @@ return array(
     'no_recent_updates' => "最近更新为空",
     'no_updates_content' => "我的内容为空",
     'no_updates_favorites' => "收藏夹为空",
-    'outbox' => "Sent items",
+    'outbox' => "已发送",
     'pm_inbox_title' => "收到的私信",
     'pm_outbox_title' => "发送的私信",
     'private_message_title' => "发送私信",

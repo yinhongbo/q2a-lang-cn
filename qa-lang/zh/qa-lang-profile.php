@@ -68,7 +68,7 @@ return array(
     'post_wall_button' => "添加墙贴",
     'post_wall_empty' => "墙贴内容为空，写点什么再发吧",
     'post_wall_limit' => "无法在这个小时内发送更多的墙贴。",
-    'post_wall_must_be_approved' => "账户必须通过审核后你才可以发表这个贴子。",
+    'post_wall_must_be_approved' => "账户必须通过审核后你才可以发表这个贴子。请等待 ^1或者提供更多信息^2",
     'post_wall_must_confirm' => "请 ^5验证你的邮箱地址^6 后再发此贴。",
     'post_wall_must_login' => "请 ^1登录^2 或者 ^3注册^4 后再发此贴。",
     'questions' => "提问数：",
